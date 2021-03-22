@@ -5,7 +5,7 @@ public class DateTest {
 
         myDate.print();
 
-        myDate= new MyDate(int day, int month, int year)
+        //myDate= new MyDate(int day, int month, int year)
 
         myDate.print();
 
