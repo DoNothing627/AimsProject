@@ -1,3 +1,6 @@
+import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+import hust.soict.globalict.aims.order.Order;
+
 public class Aims {
     public static void main(String[] args)
     {

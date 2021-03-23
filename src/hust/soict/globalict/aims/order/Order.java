@@ -1,3 +1,5 @@
+import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+
 public class Order {
     private int numbersOrdered= 0;
     private float totalCost= 0;
