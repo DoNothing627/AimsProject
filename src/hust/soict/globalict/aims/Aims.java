@@ -1,3 +1,4 @@
+package hust.soict.globalict.aims;
 import hust.soict.globalict.aims.disc.DigitalVideoDisc;
 import hust.soict.globalict.aims.order.Order;
 

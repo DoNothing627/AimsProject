@@ -1,3 +1,4 @@
+package hust.soict.globalict.aims.order;
 import hust.soict.globalict.aims.disc.DigitalVideoDisc;
 
 public class Order {
