@@ -1,16 +1,11 @@
-package hust.soict.globalict.aims.disc;
+package hust.soict.globalict.aims.media;
 
-public class DigitalVideoDisc {
-    private String title;
-    private String category;
-    private String director;
-    private int length;
-    private float cost;
-
-    public DigitalVideoDisc(String title) {
-        super();
-        this.title = title;
-    }
+public class Media {
+    protected String title;
+    protected String category;
+    protected String director;
+    protected int length;
+    protected float cost;
 
     public String getTitle() {
         return title;
@@ -51,5 +46,7 @@ public class DigitalVideoDisc {
     public void setCost(float cost) {
         this.cost = cost;
     }
+
+
 
 }

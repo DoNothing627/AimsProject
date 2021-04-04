@@ -1,5 +1,5 @@
 package hust.soict.globalict.aims.order;
-import hust.soict.globalict.aims.disc.DigitalVideoDisc;
+import hust.soict.globalict.aims.media.DigitalVideoDisc;
 
 public class Order {
     private int numbersOrdered= 0;

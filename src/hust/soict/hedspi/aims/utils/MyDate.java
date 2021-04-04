@@ -1,3 +1,5 @@
+package hust.soict.hedspi.aims.utils;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
