@@ -19,4 +19,6 @@ public abstract class Media {
     }
 
     public abstract void setTitle(String b);
+
+    public abstract void setCategory(String animation);
 }
