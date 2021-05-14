@@ -14,7 +14,7 @@ public class DateTest {
         myDate= new MyDate(myDate.accept());
 
         //System.out.println(a);
-
+        //asdbjsd
         myDate.print();
 
     }
