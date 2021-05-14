@@ -12,9 +12,25 @@ public class Disc extends Media{
         return directory;
     }
 
+    public Disc(){
+
+    }
+    
     public Disc(int length, String directory) {
         super();
         this.length = length;
         this.directory = directory;
+    }
+
+    @Override
+    public void setTitle(String b) {
+        // TODO Auto-generated method stub
+        
+    }
+
+    @Override
+    public void setCategory(String animation) {
+        // TODO Auto-generated method stub
+        
     }
 }

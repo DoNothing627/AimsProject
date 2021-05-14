@@ -5,7 +5,6 @@ public class DigitalVideoDisc extends Disc implements Playable {
     private int length;
 
     public DigitalVideoDisc(String title) {
-        super();
         this.title = title;
     }
 
@@ -18,5 +17,14 @@ public class DigitalVideoDisc extends Disc implements Playable {
     @Override
     public void setTitle(String b) {
 
+    }
+
+    public void setDirector(String string) {
+    }
+
+    public void setCost(float f) {
+    }
+
+    public void setLength(int i) {
     }
 }

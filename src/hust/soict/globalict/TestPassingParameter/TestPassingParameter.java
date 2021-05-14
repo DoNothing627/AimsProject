@@ -1,3 +1,4 @@
+package hust.soict.globalict.TestPassingParameter;
 import hust.soict.globalict.aims.media.DigitalVideoDisc;
 
 public class TestPassingParameter {
